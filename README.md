@@ -1,5 +1,7 @@
 # ⛩️ Kinzo ⛩️
 
+<img align="right" width="400" src="https://giffiles.alphacoders.com/258/2583.gif">
+
 **` Tech enthusiast `**
 
 - Working as CSA
@@ -7,4 +9,5 @@
 - Hopefully a SysAdmin some day
 - 🇦🇷⭐⭐⭐
 
-<img align=right src="![2583](https://github.com/user-attachments/assets/9b9be019-2a64-4a65-89d2-7e2c09ce661f)" />
+
+
